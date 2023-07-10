@@ -1,9 +1,9 @@
 # KOULU-URANI
 
-- Hei! Olen neljännen vuoden opiskelija Kajaanista! Opiskelusuuntauksenani toimii Kajaanin Ammattikorkeakoulun Tieto- ja viestintätekniikan linja Datasta Tekoälyyn.
+- Hei!  Olen kesällä 2023 valmistunut tieto- ja viestintätekniikan insinööri Joensuusta! Opiskelusuuntauksenani toimi Kajaanin Ammattikorkeakoulun Tieto- ja viestintätekniikan linja Datasta Tekoälyyn.
 
 
-## Mitä koulutukseen on kuulunut
+## Mitä koulutukseen kuului
 
 ### Ensimmäinen vuosi
 
@@ -33,4 +33,6 @@
 
 ### Neljäs vuosi
 
-- Neljäs vuosi tulee sisältämään harjoittelun, sekä opinnäytetyön.
+- Neljäs vuosi sisälsi harjoittelun data-analytikkona, sekä opinnäytetyön. Linkki opinnäytetyöhön:
+- https://urn.fi/URN:NBN:fi:amk-2023053116372
+
